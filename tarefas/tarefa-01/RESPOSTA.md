@@ -1,5 +1,4 @@
 # Renan Mendonça Tavares
-## Aralto do Abismo
 
 ## Habilidades
 - Programação
